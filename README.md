@@ -1,9 +1,4 @@
 # AI-for-Citizen--GS
-
-# Citizen Assist AI — Cidadão sem Barreiras
-
-## Sobre o projeto
-
 O Citizen Assist AI é um assistente digital desenvolvido como parte da Global Solutions da disciplina Prompt and Artificial Intelligence.
 
 O objetivo do projeto é facilitar o acesso a informações sobre documentos pessoais por meio de um chatbot que utiliza inteligência artificial e linguagem simples.
