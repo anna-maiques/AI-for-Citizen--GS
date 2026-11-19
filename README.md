@@ -76,10 +76,10 @@ Foram utilizadas as 26 perguntas obrigatórias do enunciado para avaliar o chatb
 
 | Resultado | Antes | Depois |
 |---|---:|---:|
-| Respostas corretas | 24 | 24 |
-| Respostas incorretas | 2 | 2 |
+| Respostas corretas | 23 | 22 |
+| Respostas incorretas | 3 | 4 |
 | Erros técnicos | 0 | 0 |
-| Taxa de acerto | 92,31% | 92,31% |
+| Taxa de acerto | 88,46% | 84,62% |
 
 A versão melhorada apresentou uma correção em um teste de resistência a prompt injection, mas não aumentou o percentual geral de acertos.
 
