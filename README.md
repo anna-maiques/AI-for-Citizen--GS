@@ -113,3 +113,7 @@ O Citizen Assist AI possui algumas limitações:
 - O avaliador automático também pode apresentar erros.
 
 O projeto deve ser utilizado apenas para fins educacionais.
+
+## Links 
+
+Google Colab: https://colab.research.google.com/drive/1mt2W-n2MrvHQ_EG8YYr1Zccan9-mR2rQ?usp=sharing
