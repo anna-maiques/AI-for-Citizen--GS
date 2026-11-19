@@ -13,6 +13,18 @@ O assistente foi pensado principalmente para pessoas idosas, pessoas com defici�
 - Anna Cecília — RM 570955
 - Lucas Parkin — RM 573251
 
+## Como executar
+
+1. Abra o arquivo `Ai chat _citizen` no Google Colab.
+2. No menu de segredos do Colab, cadastre uma chave válida da OpenAI com o nome `OPENAI_API_KEY`.
+3. Autorize o notebook a utilizar esse segredo.
+4. Execute a célula de instalação e importação das bibliotecas.
+5. Quando aparecer a solicitação de upload, selecione o arquivo `1CC-documentos_de_referencia.zip`, disponível neste repositório.
+    
+É necessário ter conexão com a internet e uma chave válida da API OpenAI. O uso da API pode gerar custos.
+
+O arquivo ZIP precisa ser enviado ao Colab a cada nova sessão de execução. Não é necessário descompactá-lo manualmente.
+
 ## Problema identificado
 
 Muitas pessoas encontram dificuldades para compreender informações sobre documentos pessoais e serviços públicos.
@@ -57,15 +69,6 @@ O assistente consulta sete fichas fictícias:
 - FC-07 — Regras gerais de atendimento e acessibilidade
 
 As fichas são organizadas em arquivos Markdown e utilizadas como fonte de informação do agente.
-
-## Como executar
-
-1. Abra o arquivo `Ai chat _citizen.ipynb` no Google Colab.
-2. Acesse a seção **Segredos** do Colab.
-3. Cadastre uma chave válida de API OpenAI com o nome `OPENAI_API_KEY`.
-4. Autorize o notebook a acessar esse segredo.
-5. Selecione **Ambiente de execução → Executar tudo**.
-6. Adicione o zip `1CC-documentos_de_referencia.zip` na primeira célula.
 
 ## Avaliação com Golden Dataset
 
